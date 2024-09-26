@@ -2,6 +2,7 @@ public class main {
     public static void main(String[] args) {
         Stock stock = new Stock("Мишка",10,true);
         WriterInfo write = new WriterInfo(stock);
+        //Класс
     }
 }
 /*
