@@ -3,6 +3,9 @@ public class main {
         Stock stock = new Stock("Мишка",10,true);
         WriterInfo write = new WriterInfo(stock);
         //Класс
+        //Ёу
+        System.out.println("Misha krutoi");
+        System.out.println("Misha ne krutoi");
     }
 }
 /*
